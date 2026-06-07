@@ -31,7 +31,7 @@ Terminal 2 (Ejecutar Nodo de Navegación):
 Bash
 source ~/ros2_ws/install/setup.bash
 ros2 run robot_integration nodo_navegacion
-
+```
 Nota Técnica sobre la Simulación
 El software implementa correctamente la lógica de control PID y la arquitectura de comunicación.
 
